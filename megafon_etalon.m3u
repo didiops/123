@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 #EXTINF:-1 group-title="Общие",Звезда
 https://play.megafon.tv/out/u/v1-video-6348357.mpd
 #EXTINF:-1 group-title="Новостные",360° Новости
