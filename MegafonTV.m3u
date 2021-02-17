@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" tvg-rec="3"
 #EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2х2
 http://play.megafon.tv/out/u/v1-video-6348301.mpd
 #EXTINF:-1 tvg-id="360-news" group-title="Информационные",360° Новости
